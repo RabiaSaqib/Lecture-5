@@ -6,12 +6,13 @@
 #include <iostream>
 using namespace std;
 
+int main()
+{
 string name = "Rabia";
 int age = 15;
 string home_town = "Ajman";
 
- int main()
-{
+
 	cout << "My name is : " << name << endl;
 	cout << "My age is : " << age << endl;
 	cout << "My home town is ; " << home_town << endl;
